@@ -6,7 +6,7 @@ Brute Force Tool By MrAlexandeer ( Adil Hamidi ) For The Following Websites :
 - Google 
 World List Required
 Enjoy ! 
-==================================================================================
+============================================================
 - What Is a BruteForce Attack ? 
 A brute force attack (also known as brute force cracking) is the cyberattack equivalent of trying every key on your key ring, and eventually finding the right one. 5% of confirmed data breach incidents in 2017 stemmed from brute force attacks.
 
